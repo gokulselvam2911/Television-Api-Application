@@ -2,13 +2,13 @@
 Implement the Television API using async/await with fetch.
 Constraints:
 
--How do I process the API data?
--Search for different TV shows.
--Display all the related TV shows.
--Also display the genres and the premiered date of the show.
--Display the daily timing of the show.
--Also display the streaming country’s network
--Add the show’s banner also.
+- How do I process the API data?
+- Search for different TV shows.
+- Display all the related TV shows.
+- Also display the genres and the premiered date of the show.
+- Display the daily timing of the show.
+- Also display the streaming country’s network
+- Add the show’s banner also.
 
 Any basic hints to solve?
 http://www.tvmaze.com/api
